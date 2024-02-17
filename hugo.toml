@@ -1,4 +1,4 @@
-baseURL = 'https://my-first-hugo-site.org/'
+baseURL = 'https://alyona-tech-communication.org/'
 languageCode = 'en-us'
-title = 'First Hugo Site for TC course'
-theme = 'ananke'
+title = 'Technical Communication'
+theme = 'hugo-book'
